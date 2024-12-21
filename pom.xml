@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.numb2too</groupId>
-	<artifactId>first-project-backend</artifactId>
+	<artifactId>first-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>first-project-backend</name>
+    <name>first-project</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
