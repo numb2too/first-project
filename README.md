@@ -1,5 +1,11 @@
-# 注意事項
+# 我的第一個專案
 
-## logback.xml
-- 如果沒有`logback.xml`會出現此錯誤
-  - `java.lang.IllegalStateException: Could not initialize Logback logging from classpath:logback.xml`
+## 資料結構
+### oa-sys
+- 想做一個OA系統，可填寫簽核表單、查詢資料、增刪改查設定檔、寄信通知、排程設定。 
+
+### docs
+- 放一些操作說明、或是教學文件、或是注意事項
+
+
+
