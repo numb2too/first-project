@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### qodana ###
+qodana.sarif.json
+
 ### STS ###
 .apt_generated
 .classpath
